@@ -1,3 +1,5 @@
 title: TallCat
 theme: jekyll-theme-minimal
 description: Webpage of the TallCat Applied Category Theory group at TalTech.
+author:
+  avatar: images/tallcats.png
