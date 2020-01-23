@@ -12,4 +12,5 @@ Applied Category Theory group at TalTech.
  
 ### Courses
  
-  * [Functional Programming](CourseFunctionalProgramming.html).
+ * [Functional Programming](CourseFunctionalProgramming.html) (ITI0212).
+ * [Introduction to Category Theory and its applications](CourseCategoryTheory.html) (ITI9200).
