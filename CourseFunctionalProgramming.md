@@ -5,7 +5,7 @@
 
 ## Lectures
 
- * Introduction to Idris. 28 January.
+ * [Lecture 1. Introduction.](./FunctionalProgramming/lecture1.pdf) 28 January.
  * 4 February.
  * 11 February.
  * 18 February.
