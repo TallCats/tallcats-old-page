@@ -8,7 +8,7 @@ Applied Category Theory group at TalTech.
 -   [Elena Di Lavore](somelink).
 -   [Nathan Haydon](somelink).
 -   [Chad Nester](somelink).
--   [Mario Román](somelink).
+-   [Mario Román](https://mroman42.github.io/).
 
 ### Courses
 
