@@ -1,6 +1,6 @@
 # Functional Programming
 
- * Tuesdays 10:00-11:30, ICT-A2.
+ * Tuesdays 10:00-11:30, [ICT-A2](https://goo.gl/maps/eXAW7u9dy3bHyxdE7).
  * Course code: ITI0212.
 
 ## Lectures
