@@ -5,18 +5,18 @@
 
 ## Lectures
 
- 1. 28 January.
- 2. 4 February.
- 3. 11 February.
- 4. 18 February.
- 5. 25 February.
- 6. 10 March.
- 7. 17 March.
- 8. 24 March.
- 9. 31 March.
- 10. 7 April.
- 11. 14 April.
- 12. 21 April.
- 13. 28 April.
- 14. 5 May.
- 15. 12 May.
+ * Introduction to Idris. 28 January.
+ * 4 February.
+ * 11 February.
+ * 18 February.
+ * 25 February.
+ * 10 March.
+ * 17 March.
+ * 24 March.
+ * 31 March.
+ * 7 April.
+ * 14 April.
+ * 21 April.
+ * 28 April.
+ * 5 May.
+ * 12 May.
