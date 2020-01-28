@@ -1,6 +1,7 @@
 # Functional Programming
 
  * Tuesdays 10:00-11:30, [ICT-A2](https://goo.gl/maps/eXAW7u9dy3bHyxdE7).
+ * Wednesdays 10:00-11:30, [ICT-404](https://goo.gl/maps/eXAW7u9dy3bHyxdE7).
  * Course code: ITI0212.
 
 ## Lectures
@@ -20,3 +21,12 @@
  * 28 April.
  * 5 May.
  * 12 May.
+
+
+## Materials
+
+The primary textbook of the course is 
+*"Type-Driven development with Idris"* by Edwin Brady, 
+available online via the library. Complementary material is 
+[*"Learn you a Haskell for Great Good!"*](http://learnyouahaskell.com/chapters) by Lipovača, and 
+*"The craft of functional programming"*, by Thompson.
