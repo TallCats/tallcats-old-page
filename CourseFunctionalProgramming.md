@@ -39,6 +39,6 @@ available online via the library. Complementary material is
 [*"Learn you a Haskell for Great Good!"*](http://learnyouahaskell.com/chapters) by Lipovača, and 
 *"The craft of functional programming"*, by Thompson.
 
- * **Exercises:** you can try to solve the 
+ * **Extra exercises:** you can try to solve the 
    [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
-   in Idris.
+   in Idris. Edwin Brady has [some basic exercises](https://www.idris-lang.org/kats-workshop/).
