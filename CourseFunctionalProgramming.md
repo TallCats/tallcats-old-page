@@ -22,6 +22,14 @@
  * 5 May.
  * 12 May.
 
+## Labs
+
+ * **1st Lab,** 29 January.
+   * [Install Idris](https://www.idris-lang.org/download/).
+   * [Install Atom](https://atom.io/) (or Emacs).
+   * Install the package `language-idris` (inside Atom).
+   * Windows may need you to add the folder containing `idris.exe` to the 
+     [PATH system variable](https://www.google.com/search?hl=en&q=windows%20path%20environment%20variable).
 
 ## Materials
 
