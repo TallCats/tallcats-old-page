@@ -7,7 +7,7 @@
 ## Lectures
 
  * [Lecture 1. Introduction.](./FunctionalProgramming/lecture1.pdf) 28 January.
- * 4 February.
+ * [Lecture 2. Basic functions.](https://www.ioc.ee/~pawel/lecture2.pdf) 4 February.
  * 11 February.
  * 18 February.
  * 25 February.
