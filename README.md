@@ -4,7 +4,7 @@ Compositional Systems and Methods group at TalTech.
 
  -  [Pawel Sobocinski](https://www.ioc.ee/~pawel/).
  -  [Fosco Loregian](http://tetrapharmakon.github.io).
- -  [Edward Morehouse](somelink).
+ -  [Edward Morehouse](https://emorehouse.wescreates.wesleyan.edu/).
  -  [Elena Di Lavore](somelink).
  -  [Nathan Haydon](somelink).
  -  [Chad Nester](somelink).
