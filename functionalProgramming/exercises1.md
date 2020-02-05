@@ -1,16 +1,29 @@
 # Functional Programming Exercise Session 1
 
  1. Implement a function `myReverse: List ty -> List ty` that reverses lists.
+    ``` idris
+    myReverse [1,2,3] == [3,2,1]
+    ```
 
  2. Write a function `revString: String -> String` that reverses
     strings. You may find the Prelude functions `unpack: String ->
     List Char` and its inverse `pack` useful.
+    ``` idris
+    revString "hello" == "olleh"
+    ```
 
  3. Implement a function `palindrome: String -> Bool` that tests
     whether a string is a palindrome.
+    ``` idris
+    palindrome "idris" == False
+    palindrome "idrisirdi" == True
+    ```
 
- 4. Implement a function `cycle: List ty -> Nat -> List ty` that takes
+ 4. Implement a function `myCycle: List ty -> Nat -> List ty` that takes
     a list and repeats it the required number of times.
+    ``` idris
+    myCycle ['a', 'b'] 3 == ['a', 'b', 'a', 'b', 'a', 'b']
+    ```
 
  5. Write a function `deal: List ty -> (List ty, List ty)` that
     splits a list into two lists, containing its even and odd
