@@ -7,7 +7,7 @@
 Tentative program for the course.
 
 1.  [_Introduction to category theory._](./CategoryTheory/lecture1.pdf) Ed Morehouse.
-2.  _Epis, monos, isomorphisms._ Ed Morehouse.
+2.  [_Epis, monos, isomorphisms._](./CategoryTheory/lecture1.pdf) Ed Morehouse.
 3.  _Universal properties._ Fosco Loregian.
 4.  _Functors._ Fosco Loregian.
 5.  _Natural transformations._
