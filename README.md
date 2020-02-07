@@ -30,6 +30,7 @@ Academy research measure (project 2014-2020.4.05.19-0001).
    Milewski, Emily Pillmore and Mario Román, 
    ["Profunctor optics, a categorical update"](https://arxiv.org/abs/2001.07488).
 
- * Filippo Bonchi, Robin Piedeleu, Paweł Sobociński and Fabio Zanasi, Contextual 
-   Equivalence for Signal Flow Graphs. FoSSaCS 2020, to appear.
+ * Filippo Bonchi, Robin Piedeleu, Paweł Sobociński and Fabio Zanasi, "Contextual 
+   Equivalence for Signal Flow Graphs". FoSSaCS 2020, to appear.
 
+ * Nicolas Behr and Paweł Sobociński, "Rule Algebras for Adhesive Categories". In peer review.
