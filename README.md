@@ -26,6 +26,8 @@ Academy research measure (project 2014-2020.4.05.19-0001).
  * Elena Di Lavore, Jules Hedges, Paweł Sobociński, "Open games on
    Open Graphs". *In preparation.*
 
+ * Chad Nester, "A Foundation for Ledger Structures". In peer review.
+
  * Bryce Clarke, Derek Elkins, Jeremy Gibbons, Fosco Loregian, Bartosz
    Milewski, Emily Pillmore and Mario Román, 
    ["Profunctor optics, a categorical update"](https://arxiv.org/abs/2001.07488).
