@@ -21,8 +21,23 @@
     ```
     Hint: use the `map` and `sum` functions, and the `[m .. n]` syntactic sugar for lists.
 
- 3. Write a function returning the list of all divisors of n.
+ 3. Interactively add the user's input using the repl function.
+    ``` bash
+    *idris> :exec interactive_addition
+    space-separated numbers to add:
+    0
+    space-separated numbers to add: 1 2 3
+    6
+    space-separated numbers to add: 5 5 5
+    15
+    space-separated numbers to add: -2 4 
+    2
+    ^D
+    ```
+    Hint: read the documentation for `sum`.
+
+ 4. Write a function returning the list of all divisors of n.
     Hint: k is a divisor of n iff `mod k n == 0`.
 
- 4. Use your divisors function to define a primality predicate.
+ 5. Use your divisors function to define a primality predicate.
     Hint: a prime number has exactly two divisors.
