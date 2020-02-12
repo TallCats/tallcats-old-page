@@ -8,6 +8,7 @@
 
  * [Exercise sheet 1.](./functionalProgramming/exercises1.html)
  * [Exercise sheet 2.](./functionalProgramming/exercises2.html)
+ * [Homework assignment 1.](./functionalProgramming/homework1.html)
 
 ## Lectures
 

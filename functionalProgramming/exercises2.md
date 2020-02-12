@@ -7,8 +7,9 @@
     ``` idris
     rev [1,2,3] == [3,2,1]
     ```
-    Hint: use a local function with signature: `rev' : (xs : List ty) ->
-    (acc : List ty) -> List ty` where the second argument is an
+    Hint: use a local function (inside a `where` clause) with 
+    signature: `rev' : (xs : List ty) -> (acc : List ty) -> List ty` 
+    where the second argument is an
     accumulator, storing the reversal of the list prefix seen so far.
     That way when you reach the case for the empty list the accumulator
     will hold the reversal of the whole list.
