@@ -37,7 +37,9 @@
     2
     ^D
     ```
-    Hint: read the documentation for `sum`.
+    Hint: read the documentation for `sum`. You can use `cast` to convert
+    from `String`s to `Int`s and back. Your function should have type
+    `interactive_addition : IO ()`.
 
  4. Write a function returning the list of all divisors of n.
     ``` idris
