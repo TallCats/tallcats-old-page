@@ -47,7 +47,7 @@
     divisors 15 == [1, 3, 5, 15]
     divisors 1 == [1]
     ```
-    Hint: k is a divisor of n iff `mod k n == 0`.
+    Hint: k is a divisor of n iff `mod n k == 0`.
 
  5. Use your divisors function to define a primality predicate.
     ``` idris
