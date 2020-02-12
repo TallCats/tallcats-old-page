@@ -7,6 +7,7 @@
 ## Exercises
 
  * [Exercise sheet 1.](./functionalProgramming/exercises1.html)
+ * [Exercise sheet 2.](./functionalProgramming/exercises2.html)
 
 ## Lectures
 
@@ -16,12 +17,16 @@
 
 ## Labs
 
+ * **2nd Lab,** 12 February.
+ 
  * **1st Lab,** 29 January.
    * [Install Idris](https://www.idris-lang.org/download/).
    * [Install Atom](https://atom.io/) (or [Emacs](https://github.com/idris-hackers/idris-mode)).
    * Install the package `language-idris` (inside Atom).
    * Windows may need you to add the folder containing `idris.exe` to the 
      [PATH system variable](https://www.google.com/search?hl=en&q=windows%20path%20environment%20variable).
+
+
 
 ## Materials
 
