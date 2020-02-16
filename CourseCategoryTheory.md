@@ -10,7 +10,7 @@ Tentative program for the course.
 2.  [_Epis, monos, isomorphisms._](./CategoryTheory/week2/lecture2.pdf) Ed Morehouse.
 3.  [_Universal properties._](./CategoryTheory/week3/week3.pdf) Fosco Loregian.
 
-    A few `.hs` modules based on this lecture: [1](./CategoryTheory/week3/hs/Natus.html), [2](dummy), [3](dummy), [4](dummy)
+    A few `.hs` modules based on this lecture: [1](./CategoryTheory/week3/hs/Product.html), [2](./CategoryTheory/week3/hs/Coproduct.html), [3](./CategoryTheory/week3/hs/Natus.html), [4](./CategoryTheory/week3/hs/Iteratia.html)
 
 4.  _Functors._ Fosco Loregian.
 5.  _Natural transformations._
