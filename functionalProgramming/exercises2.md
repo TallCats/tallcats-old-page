@@ -1,12 +1,15 @@
 # Functional Programming Exercise Session 2
 
- 1. Rewrite your list-reversing function from last week so that it
+ 1. Rewrite your list-reversing function `myReverse` from last week so that it
     doesn't use append `(++)`, but instead uses only conses `(::)`.  This
     will be more efficient because each append must traverse the entire
     list, whereas cons is a constant time operation.
- 
-    Hint: use a local function with signature: `rev' : (xs : List ty) ->
-    (acc : List ty) -> List ty` where the second argument is an
+    ``` idris
+    rev [1,2,3] == [3,2,1]
+    ```
+    Hint: use a local function (inside a `where` clause) with 
+    signature: `rev' : (xs : List ty) -> (acc : List ty) -> List ty` 
+    where the second argument is an
     accumulator, storing the reversal of the list prefix seen so far.
     That way when you reach the case for the empty list the accumulator
     will hold the reversal of the whole list.
@@ -34,10 +37,23 @@
     2
     ^D
     ```
-    Hint: read the documentation for `sum`.
+    Hint: read the documentation for `sum`. You can use `cast` to convert
+    from `String`s to `Int`s and back. Your function should have type
+    `interactive_addition : IO ()`.
 
- 4. Write a function returning the list of all divisors of n.
-    Hint: k is a divisor of n iff `mod k n == 0`.
+ 4. Write a function returning the list of all divisors of `n : Nat`.
+    ``` idris
+    divisors 24 == [1, 2, 3, 4, 6, 8, 12, 24]
+    divisors 15 == [1, 3, 5, 15]
+    divisors 1 == [1]
+    ```
+    Hint: k is a divisor of n iff `mod n k == 0`.
 
  5. Use your divisors function to define a primality predicate.
+    ``` idris
+    is_prime 4 == False
+    is_prime 5 == True
+    is_prime 29 == True
+    is_prime 57 == False
+    ```
     Hint: a prime number has exactly two divisors.

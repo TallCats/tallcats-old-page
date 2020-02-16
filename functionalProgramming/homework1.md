@@ -13,7 +13,8 @@
     titlecase "it was the best of times" == "It Was The Best Of Times"
     ```
     Hints: recall `pack` and `unpack` from last week, and read the
-    documentation for `words` and `unwords`.
+    documentation for `words` and `unwords`. The function `toUpper`
+    will also be useful.
 
  3. Interactively titlecase the user's input using the repl function.
     ``` bash
