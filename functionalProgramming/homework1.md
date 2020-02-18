@@ -1,8 +1,8 @@
 # Submission instructions #
 
 Email the folowing files to pawel@cs.ioc.ee:
-* a single file called Solutions.idr, with all of your solutions
-* a file called statement.txt that says "I **your_name** certify that the solutions submitted are my own"
+* a single file called *Solutions.idr*, with all of your solutions
+* a file called *statement.txt* that says "I **your_name** certify that the solutions submitted are my own"
 
 **Deadline 12:00 19/02/2020**
 
