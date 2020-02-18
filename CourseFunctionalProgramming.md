@@ -15,6 +15,7 @@
  * [Lecture 1. Introduction.](./FunctionalProgramming/lecture1.pdf) 28 January.
  * [Lecture 2. Basic functions.](https://www.ioc.ee/~pawel/lecture2.pdf) 4 February.
  * [Lecture 3. Higher-order functions.](./FunctionalProgramming/lecture3.pdf) 11 February.
+ * [Lectyre 4. A bit of dependent types.] (https://www.cs.ioc.ee/~pawel/lecture4.pdf) 18 February.
 
 ## Labs
 
