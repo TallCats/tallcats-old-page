@@ -1,3 +1,5 @@
+Submission instructions: email your solutions in a single file called Solutions.idr, together with a file called statement.txt that says "I **your_name** certify that the solutions submitted are my own" to pawel@cs.ioc.ee. Deadline 12:00 19/02/2020.
+
 # Functional Programming Assignment 1
 
  1. Given a list of integers, construct the list of their successive differences
