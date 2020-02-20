@@ -12,6 +12,6 @@ Tentative program for the course.
 
     A few `.hs` modules based on this lecture: [1](./CategoryTheory/week3/hs/Product.html), [2](./CategoryTheory/week3/hs/Coproduct.html), [3](./CategoryTheory/week3/hs/Natus.html), [4](./CategoryTheory/week3/hs/Iteratia.html)
 
-4.  _Functors._ Fosco Loregian.
+4.  [_Functors._](./CategoryTheory/week4/week4.pdf) Fosco Loregian.
 5.  _Natural transformations._
 6.  _Monoidal categories and string diagrams._
